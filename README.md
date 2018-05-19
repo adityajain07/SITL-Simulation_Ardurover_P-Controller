@@ -1,5 +1,5 @@
 # About
-This project implements a P-controller on a SITL simulation of an ardurover to follow a set of waypoints. <br/>
+This project implements a P-controller on a SITL simulation of an ardurover to follow a set of waypoints using ROS. <br/>
 
 The simulation can be setup using this link: http://ardupilot.org/dev/docs/rover-sitlmavproxy-tutorial.html <br/>
 
