@@ -5,7 +5,7 @@ The simulation can be setup using this link: http://ardupilot.org/dev/docs/rover
 
 The proportional gain was tuned to prevent rapid changes in the bot's orientation. Below is the video showing the p-controller running on the simulated rover: <br/>
 
-[![Simulation Video](https://img.youtube.com/vi/ezrckOLDqDA/0.jpg)](https://www.youtube.com/watch?v=ezrckOLDqDA "Simulation Video")
+[![Simulation Video](https://img.youtube.com/vi/ezrckOLDqDA/https://github.com/adityajain07/SITL_Simulation-Ardurover-P_Controller/blob/master/thumbnail.png)](https://www.youtube.com/watch?v=ezrckOLDqDA "Simulation Video")
 
 
 
